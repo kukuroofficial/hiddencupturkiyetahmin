@@ -585,21 +585,21 @@
                         brackets: [[[{"Alp Arslan": 3, "I. Alâeddin Keykubad": 0}, {
                             "Pargalı İbrahim Paşa": 1,
                             "Evliya Çelebi": 3
-                        }], [{"Çaka Bey": null, "Attila": null}, {
-                            "Yavuz Sultan Selim": null,
-                            "Piri Reis": null
+                        }], [{"Çaka Bey": 0, "Attila": 3}, {
+                            "Yavuz Sultan Selim": 3,
+                            "Piri Reis": 1
                         }], [{"Metehan": 3, "Sultan Süleyman": 0}, {
                             "Alp Er Tunga": 3,
                             "Timur": 0
-                        }], [{"Mimar Sinan": null, "Barbaros Hayreddin": null}, {
-                            "Fatih Sultan Mehmet": null,
-                            "Bilge Kağan": null
+                        }], [{"Mimar Sinan": 0, "Barbaros Hayreddin": 3}, {
+                            "Fatih Sultan Mehmet": 3,
+                            "Bilge Kağan": 2
                         }]], [[{"Alp Arslan": null, "Evliya Çelebi": null}, {
-                            "": null,
-                            "": null
+                            "Attila": null,
+                            "Yavuz Sultan Selim": null
                         }], [{"Metehan": null, "Alp Er Tunga": null}, {
-                            "": null,
-                            "": null
+                            "Barbaros Hayreddin": null,
+                            "Fatih Sultan Mehmet": null
                         }]], [[{                            "": null,
                             "": null}, {
                             "": null,
